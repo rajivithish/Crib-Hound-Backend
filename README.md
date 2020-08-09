@@ -19,3 +19,5 @@
 
 4. After successfully connecting the database, initialize node modules by using the command 'npm install' and after all node modules has been installed, pls
    start our app with "npm start" command.
+   
+5. Run this backend server in browser(http://localhost:8080/) ,it show will show the following message ("message":"Welcome to cribs application."}).
